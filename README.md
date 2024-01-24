@@ -18,4 +18,4 @@ Call functions from the deployed smart contract. This step is essential for test
 
 ![Screen Shot 2024-01-24 at 16 46 23](https://github.com/anelyabegimbetova114/assignment_2/assets/124655758/cd75c36c-c5df-44e2-bbd0-f20ac999bb57)
 
-![Screen Shot 2024-01-24 at 16 47 10](https://github.com/anelyabegimbetova114/assignment_2/assets/124655758/2bab66b2-cce4-4370-81b9-805f2554851a)
+
