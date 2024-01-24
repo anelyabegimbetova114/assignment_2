@@ -1,6 +1,4 @@
 # assignment_2
-Install Dependencies:
-Begin by installing the required packages. In this assignment, we use the Web3 package. Make sure your package.json file includes the necessary dependencies.
 
 Configure INFURA and Sepolia TestNet:
 Utilize INFURA as your Ethereum node provider, specifically connecting to the Sepolia TestNet. Ensure your MetaMask is set up and connected to this TestNet.
